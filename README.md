@@ -100,3 +100,7 @@ I got so <b>{{adjective}}</b>, I started to {{verb}}.
 </body>
 </html>
 ```
+
+## JS Bin Demo
+
+http://output.jsbin.com/xucahe/13
